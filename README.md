@@ -2,6 +2,8 @@
 通用编码规范、开发规范收集，其他同学有推荐的可以提交 Issue
 
 ## PHP
+    - PSR 标准规范，中文参考网址 https://psr.phphub.org/，英文网址 https://www.php-fig.org/
+    - 目录仅列出了 PSR-1、PSR-2 两个规范，其他具体用到的可参考相应网址
 
 ## JavaScript
 
