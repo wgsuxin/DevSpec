@@ -4,7 +4,8 @@
 ## PHP
     - PSR 标准规范，中文参考网址 https://psr.phphub.org/，英文网址 https://www.php-fig.org/
     - 目录仅列出了 PSR-1、PSR-2 两个规范，其他具体用到的可参考相应网址
-
+## FE 统一规范
+    - 查看目录文档
 ## JavaScript
 
 ## CSS
